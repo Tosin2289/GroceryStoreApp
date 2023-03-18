@@ -1,16 +1,10 @@
 # grocery_store_app
+A grocery store app made with flutter 
+using providers for the state management
+It a Ui with a little more fuctionalities
 
-A new Flutter project.
+![Screenshot_1679171265](https://user-images.githubusercontent.com/66890167/226136964-543c1d3d-f030-4f1f-9331-0d4d1630364a.png)
 
-## Getting Started
+![Screenshot_1679171276](https://user-images.githubusercontent.com/66890167/226136973-87ba059f-af9d-4a41-be2b-615b27078e20.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1679171287](https://user-images.githubusercontent.com/66890167/226136977-c3c402c2-cb02-4917-94bf-e201a32ee712.png)
